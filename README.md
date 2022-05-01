@@ -7,3 +7,9 @@ Enlace al visualizador de tracks GPX con opcion de lectura de temperatura
 
 https://shop.m5stack.com/products/atom-gps-kit-m8030-kt
 Enlace de compra de kit m8030 de M5Stack
+
+M5Stack Atom GPS
+- ![Atomic](1_4a8a6bd9-1194-4b87-ab84-051edf0767ec_1200x1200.webp)
+
+DS18b20 waterprooft
+- ![DS18b20](381-00.jpg)
