@@ -13,3 +13,7 @@ M5Stack Atom GPS
 
 DS18b20 waterprooft
 - ![DS18b20](381-00.jpg)
+
+Resultado final
+- ![Resultado Final](https://github.com/mendilazo/Gps-a-gpx-mediante-Atomic-M5stack-con-registro-temperatura-de-DS18b20/blob/b1b37510b297070d66ea608fff4d1ba136f09347/Ejemplo%20de%20ruta.png)
+
